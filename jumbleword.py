@@ -4,7 +4,7 @@ from tkinter import messagebox
 import random
 from random import shuffle
 
-answers = ["America", "India", "Australia"]
+answers = ["America", "India", "Australia", "Russia", "England"]
 
 questions = []
  
